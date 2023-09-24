@@ -1,3 +1,8 @@
+PS D:\netflix\netflix-app> git remote add origin https://github.com/R-Renga/Netflix.git
+PS D:\netflix\netflix-app> git branch -M main
+PS D:\netflix\netflix-app> git push -u origin main
+
+
 1.Npx create-react-app netflix-app
 
 2.make a folder structure
